@@ -1,2 +1,2 @@
 # static-test
-sorting aout wordpress static hosting
+sorting out wordpress static hosting
